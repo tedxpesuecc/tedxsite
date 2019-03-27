@@ -3188,6 +3188,11 @@ input, select, textarea {
 		color: #eeeeee;
 	}
 
+	.responsiveImage {
+		width = 100%;
+		height = auto;
+	}
+
 /* Wrapper */
 
 	#wrapper {
